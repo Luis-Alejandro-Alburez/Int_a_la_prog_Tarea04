@@ -23,6 +23,5 @@ for (let j = 0; j < cantidadNumeros; j++) {
     }
 }
 
-alert("los números son: " + numeros);
 alert("el mínimo es: " + minNum);
 alert("el máximo es: " + maxNum);
